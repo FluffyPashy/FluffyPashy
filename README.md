@@ -12,13 +12,19 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on my own game called "Project DG"
+- 🔭 I’m currently working on a custom made Discord-Bot.
+      - The Bot is based of Discord.py
+      - It will be tested and developed for/at PawNatic-Studios
 
 - 🌱 I’m currently learning Unity DOTS 
 
-- 💬 Talk to me about anything you want
+- 💬 Talk to me about anything you want.
+      - It's always a plesure to meet new ppl.
 
 - 🦝 I love raccoons, they r just like me.
+      - circumorbital ring
+      - always hungry
+      - is awake when everybody is sleeping
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/FluffyPashy?tab=repositories&q=&type=&language=github&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> </a>
