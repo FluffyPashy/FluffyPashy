@@ -13,8 +13,6 @@
 
 - 🌱 Current projects
   - Studiying Games Programming in Germany
-  - Custom discord-bot for PawNatic Studios
-  - My own survival, rpg'ish, open world game (Unity, C#, Lua?)
   
 - 💬 Talk to me about anything you want.
   - It's always a plesure to meet new ppl.
