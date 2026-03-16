@@ -10,14 +10,16 @@
 <h2> About Me </h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 - 📚 History
-  - Studied Games Programming followed by teaching it and Supporting Game Art / Software-Engineer
+  - Studied Games Programming
+  - followed by teaching it and Supporting Game Art / Software-Engineer
     at the SAE Institution Munich.
-    
+
 - 🌱 Current projects
   - Working on my Own Game with friends
   - Open for Work
-  
+
 - 💬 Talk to me about anything you want.
   - It's always a plesure to meet new ppl.
 
